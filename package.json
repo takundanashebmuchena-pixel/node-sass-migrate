@@ -1,0 +1,33 @@
+{
+  "name": "node-sass-migrate",
+  "version": "1.0.0",
+  "description": "Automated migration CLI — replaces node-sass with sass (Dart Sass) in your project. Fixes breaking syntax changes automatically.",
+  "bin": {
+    "node-sass-migrate": "./bin/cli.js"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "node-sass",
+    "sass",
+    "dart-sass",
+    "migration",
+    "codemod",
+    "deprecated",
+    "scss",
+    "webpack",
+    "vite"
+  ],
+  "author": "takundanashebmuchena",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "homepage": "https://nodesassmigrate.netlify.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takundanashebmuchena-pixel/node-sass-migrate"
+  },
+  "bugs": {
+    "url": "https://github.com/takundanashebmuchena-pixel/node-sass-migrate/issues"
+  }
+}
